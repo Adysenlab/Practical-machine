@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+2f17a2a549720d9a32854ba10a47617a compiler/CMakeFiles/doc
+4ff4e5a7b99c6f8db226778ad7ea9092 compiler/parser.cc
+cbd78aaff4a825de792ed159c9079154 compiler/scanner.cc
