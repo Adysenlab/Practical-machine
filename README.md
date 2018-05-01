@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
@@ -49,3 +50,8 @@ please don't spam we hate putting you in blocking lists
 
 * Repo owner or admin mail at adysenlab@gmail.com
 * Other community or team contact [ slack channel comming up ]
+
+# Store
+the VM service that would hold the knowledge due to multifunction dataset depending on riemann hypothesis
+
+
